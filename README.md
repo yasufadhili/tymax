@@ -31,4 +31,4 @@ Some of the streams available through this application may be illegal in some re
 ## Try it out
 
 Latest development build available here:
-[Download APK](https://expo.dev/artifacts/your-build-link)
+[Download APK](https://github.com/yasufadhili/tymax/releases/download/v1.0.0/tymax_v0.0.1.apk)
