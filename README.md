@@ -28,7 +28,3 @@ Some of the streams available through this application may be illegal in some re
     <img src="" width="30%" alt="Player Screen">
 </div>
 
-## Try it out
-
-Latest development build available here:
-[Download APK](https://github.com/yasufadhili/tymax/releases/download/v1.0.0/tymax_v0.0.1.apk)
